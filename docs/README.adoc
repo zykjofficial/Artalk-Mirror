@@ -1,0 +1,11 @@
+= Mirror
+By LoeRfy
+
+Golang 写的反向代理的工具，支持文本替换，重定向替换，Cookie 替换等。详见 https://blog.itswincer.com/posts/1352252a/[本博客]。
+已部署至 now.sh。
+
+=======
+⚠️：在 now.sh 部署之后，最近两个月每个月跑了近 100g 的流量，由于使用的是免费账户，被 now.sh 警告多次后已被永久冻结。故请自行部署。
+
+自行部署请切换至 master 分支，支持 Docker 部署。
+
