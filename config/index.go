@@ -26,12 +26,12 @@ enable_ssl: True
 handle_cookie: True
 
 host:
-  self: mirror.loerfy.now.sh
-  proxy: www.google.com
+  self: mirror-kfdh33sln.vercel.app
+  proxy: artalk.cyfan.top
 
 replaced_urls:
-  - old: www.google.com
-    new: mirror.loerfy.now.sh
+  - old: artalk.cyfan.top
+    new: mirror-kfdh33sln.vercel.app
 `
 var Config *Yaml
 var Protocal string
