@@ -26,12 +26,12 @@ enable_ssl: True
 handle_cookie: True
 
 host:
-  self: mirror-kfdh33sln.vercel.app
+  self: artalk-mini.cyfan.top
   proxy: artalk.cyfan.top
 
 replaced_urls:
   - old: artalk.cyfan.top
-    new: mirror-kfdh33sln.vercel.app
+    new: artalk-mini.cyfan.top
 `
 var Config *Yaml
 var Protocal string
