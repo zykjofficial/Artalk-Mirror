@@ -26,12 +26,12 @@ enable_ssl: True
 handle_cookie: True
 
 host:
-  self: artalk-mini.cyfan.top
-  proxy: artalk.cyfan.top
+  self: artalk-at.zykjofficial.ml
+  proxy: artalk.zykjofficial.ml
 
 replaced_urls:
-  - old: artalk.cyfan.top
-    new: artalk-mini.cyfan.top
+  - old: artalk.zykjofficial.ml
+    new: artalk-at.zykjofficial.ml
 `
 var Config *Yaml
 var Protocal string
